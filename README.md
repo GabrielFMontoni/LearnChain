@@ -92,7 +92,8 @@ The project uses the following dependencies and dev dependencies:
    - After running the development server, open your browser and go to `http://localhost:3000`.
    - Test the login functionality by connecting to the XION ecosystem.
    - Create an account and explore the decentralized education features.
-
+   - You can try it on Vercel: https://learn-chain-one.vercel.app/login
+  
 5. **Future Enhancements:**
 
    We are continuously working to improve **LearnChain**. In the future, we plan to add additional features such as:
