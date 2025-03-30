@@ -34,3 +34,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+xiond tx bank send gabriel xion1yrqvlld7zxxhxnpchl4gvfcvstauyqknl24y5fywuvtrka0g24ts6jehu2 100uxion --node https://rpc.xion-testnet-2.burnt.com:443 --chain-id xion-testnet-2 --gas auto --gas-adjustment 1.5 --gas-prices 0.025uxion
+
+
+xiond tx bank send xion1ka5... xion193h... 500factory/xion1ka5.../mytoken --node https://rpc.xion-testnet-2.burnt.com:443 --from mywallet --chain-id  --gas auto --gas-adjustment 1.5 --gas-prices 
